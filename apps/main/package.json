@@ -1,0 +1,7 @@
+{
+  "name": "@monorepo/main",
+  "type": "module",
+  "dependencies": {
+    "@hevymask-csm/packages": "workspace:*"
+  }
+}

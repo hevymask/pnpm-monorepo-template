@@ -1,0 +1,15 @@
+{
+  "name": "monorepo",
+  "scripts": {
+    "main": "pnpm --filter @monorepo/main"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.14.0",
+      "onFail": "download"
+    }
+  },
+  "packageManager": "pnpm@12.14.0",
+  "type": "module"
+}

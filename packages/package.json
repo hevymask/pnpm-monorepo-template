@@ -1,0 +1,8 @@
+{
+  "name": "@monorepo/packages",
+  "main": "index.js",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  }
+}
