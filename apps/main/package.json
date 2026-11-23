@@ -1,7 +1,7 @@
 {
-  "name": "@monorepo/main",
+  "name": "@pnpm-monorepo-template/main",
   "type": "module",
   "dependencies": {
-    "@hevymask-csm/packages": "workspace:*"
+    "@pnpm-monorepo-template/package": "workspace:*"
   }
 }

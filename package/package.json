@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo/package",
+  "name": "@pnpm-monorepo-template/package",
   "main": "index.js",
   "type": "module",
   "exports": {

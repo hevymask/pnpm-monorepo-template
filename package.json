@@ -1,7 +1,7 @@
 {
-  "name": "monorepo",
+  "name": "pnpm-monorepo-template",
   "scripts": {
-    "main": "pnpm --filter @monorepo/main"
+    "main": "pnpm --filter @pnpm-monorepo-template/main"
   },
   "devEngines": {
     "packageManager": {
