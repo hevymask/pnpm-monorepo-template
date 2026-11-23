@@ -1,5 +1,6 @@
 {
   "name": "pnpm-monorepo-template",
+  "type": "module",
   "scripts": {
     "main": "pnpm --filter @pnpm-monorepo-template/main"
   },
@@ -10,6 +11,5 @@
       "onFail": "download"
     }
   },
-  "packageManager": "pnpm@12.14.0",
-  "type": "module"
+  "packageManager": "pnpm@12.14.0"
 }

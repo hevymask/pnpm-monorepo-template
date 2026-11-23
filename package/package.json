@@ -1,7 +1,8 @@
 {
-  "name": "@pnpm-monorepo-template/package",
-  "main": "index.js",
+  "name": "@hevymask-csm/package",
+  "private": true,
   "type": "module",
+  "main": "index.js",
   "exports": {
     ".": "./src/index.ts"
   }

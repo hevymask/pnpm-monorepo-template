@@ -1,11 +1,11 @@
 # pnpm-monorepo-template
-The simple monorepo template for pnpm
+Simple pnpm monorepo template
 
-## How to use?
-1. Clone this repository
-2. Change `/package.json`, `package/package.json` and `apps/main/package.json` to your choice
-3. Create the structure as you like
-4. Run `pnpm install` on root directory and start development!
+## How to use
+1. Clone this repository.
+2. Update `package.json`, `package/package.json`, and `apps/main/package.json` to match your project.
+3. Create the structure you prefer.
+4. Run `pnpm install` from the project root, then start your project!
 
 ## Technology
 - pnpm
